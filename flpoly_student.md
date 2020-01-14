@@ -4,20 +4,22 @@
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Operations Research
 
-- Course 2
+- Introduction to Business Finance
 
-- Course 3
+- International & Comparative Dimensions of Business
 
-- Course 4
+- Introduction to Data Science
+
+- Intelligent Mobility
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Gaming
 
-- Thing 2
+- Photography/Videography
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Cars as shown in http://jdm-expo.com/vehicle-inventory/592-nissan-skyline-sale.html
